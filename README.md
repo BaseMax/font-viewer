@@ -9,6 +9,8 @@
 - **Text Style Customization**: Apply bold and italic styles to the text.
 - **Copy to Clipboard**: Easily copy the displayed text for use in other applications.
 
+![GUI Font Viewer](demo.jpg)
+
 ## Requirements
 
 - Python 3.6 or later
